@@ -1,0 +1,46 @@
+---
+title: Course schedule
+type: "generic_page"
+---
+
+# Course schedule
+
+--- Foundations of psycholinguistics
+
+- Session 1: What is psycholinguistics? What do psycholinguists investigate?
+
+- Session 2: Why investigate linguistic meaning using psycholinguistic tools?
+
+--- Language production
+
+- Session 3: Processes and models
+
+- Session 4: Methods
+
+--- Language comprehension
+
+- Session 5: Processes and models
+
+- Session 6: Methods
+
+- Session 7: Methods
+
+--- Computational psycholinguistics
+
+- Session 8: Modeling psycholinguistic data
+
+--- Selected readings
+
+- Session 9: Production study
+
+- Session 10: Self-paced reading study
+
+- Session 11: Eye-tracking study
+
+- Session 12: Mouse-tracking study
+
+- Session 13: Experimental study + modeling
+
+- Session 14: Discourse, cognition and human interaction ([Levinson, 2006](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/materials/S14-Levinson(2006)))
+
+
