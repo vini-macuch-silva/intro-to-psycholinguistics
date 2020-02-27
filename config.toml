@@ -36,7 +36,7 @@ theme = "hugo-slum"
 languageCode = "en-us"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "\\.pdf$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 
