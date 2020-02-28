@@ -7,11 +7,11 @@ type: "generic_page"
 
 Students will be assessed on the basis of the following components:
 
-- Drafting of a one-page summary of each session in the first part of the course. Summaries are to be handed in (physicaly or electronically) by the following session at the latest [30% of the grade];
+- [30%] Drafting of a one-page summary of each session in the first part of the course. Summaries are to be handed in (physicaly or electronically) by the following session at the latest;
 
-- The presentation of a research paper in the second part of the course. Papers will be presented in small groups (2-4 people, depending on the number of attendants) [30% of the grade];
+- [30%] The presentation of a research paper in the second part of the course. Papers will be presented in small groups (2-4 people, depending on the number of attendants);
 
-- Drafting of a research report-like assignment focusing on one of the studies presented in class in the second part of the course [40% of the grade].
+- [40%] Drafting of a research report-like assignment focusing on one of the studies presented in class in the second part of the course.
 
 
 A template for the session summary can be found here.
@@ -20,4 +20,4 @@ A template for the session summary can be found here.
 A reference document with the questions for the report assignment can be found here.
 
 
-The course instructor will upload a one-page summary for each session by the beginning of the following session. 
+The course instructor will upload a one-page summary of each session by the beginning of the following session. 
