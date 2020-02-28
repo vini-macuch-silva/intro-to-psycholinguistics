@@ -1,0 +1,46 @@
+---
+title: Syllabus
+type: "generic_page"
+---
+
+# Course syllabus
+
+Part I --- Foundations of psycholinguistics
+
+- Session 1: What is psycholinguistics? What do psycholinguists investigate?
+
+- Session 2: Why, and how to, investigate linguistic meaning using psycholinguistic tools?
+
+I.I --- Language production
+
+- Session 3: Processes and models
+
+- Session 4: Methods
+
+I.II --- Language comprehension
+
+- Session 5: Processes and models
+
+- Session 6: Methods
+
+- Session 7: Methods
+
+I.III --- Computational psycholinguistics
+
+- Session 8: Modeling psycholinguistic data
+
+Part II --- Selected readings
+
+- Session 9: Production study ([Clarke, Elsner & Rohde, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S09-Clarke,Elsner&Rohde(2013).pdf))
+
+- Session 10: Self-paced reading study ([Bergen & Grodner, 2012](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Bergen&Grodner(2012).pdf))
+
+- Session 11: Visual world eye-tracking study ([van Bergen & Bosker, 2018](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-vanBergen&Bosker(2018).pdf))
+
+- Session 12: Mouse-tracking study ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S12-Dale&Duran(2011).pdf))
+
+- Session 13: Modeling production data ([Herbstritt & Franke, 2019](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S13-Herbstritt&Franke(2019).pdf))
+
+- Session 14: Discourse, cognition and human interaction ([Levinson, 2006](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S14-Levinson(2006).pdf))
+
+

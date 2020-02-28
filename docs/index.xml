@@ -11,23 +11,52 @@
     
     
     <item>
-      <title>Course schedule</title>
+      <title>Assessment</title>
+      <link>/assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/assessment/</guid>
+      <description>Course assessmentStudents will be assessed on the basis of the following components:
+Drafting of a one-page summary of each session in the first part of the course. Summaries are to be handed in (physicaly or electronically) by the following session at the latest [30% of the grade];
+The presentation of a research paper in the second part of the course. Papers will be presented in small groups (2-4 people, depending on the number of attendants) [30% of the grade];</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
       <link>/course-schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/course-schedule/</guid>
-      <description>Course schedule— Foundations of psycholinguistics
+      <description>Course syllabusPart I — Foundations of psycholinguistics
 Session 1: What is psycholinguistics? What do psycholinguists investigate?
 Session 2: Why, and how to, investigate linguistic meaning using psycholinguistic tools?
-— Language production
+I.I — Language production
 Session 3: Processes and models
 Session 4: Methods
-— Language comprehension
+I.II — Language comprehension
 Session 5: Processes and models
 Session 6: Methods
 Session 7: Methods
-— Computational psycholinguistics
-Session 8: Modeling psycholinguistic data— Selected readings</description>
+I.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description>Course syllabusPart I — Foundations of psycholinguistics
+Session 1: What is psycholinguistics? What do psycholinguists investigate?
+Session 2: Why, and how to, investigate linguistic meaning using psycholinguistic tools?
+I.I — Language production
+Session 3: Processes and models
+Session 4: Methods
+I.II — Language comprehension
+Session 5: Processes and models
+Session 6: Methods
+Session 7: Methods
+I.</description>
     </item>
     
   </channel>

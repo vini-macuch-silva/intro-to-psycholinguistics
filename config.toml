@@ -72,9 +72,13 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Course schedule"
-    url = "/course-schedule/"
+    name = "Syllabus"
+    url = "/syllabus/"
     weight = 2
+[[menu.main]]
+    name = "Assessment"
+    url = "/assessment/"
+    weight = 3
 
 
 
