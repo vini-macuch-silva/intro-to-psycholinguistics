@@ -17,7 +17,7 @@ Students will be assessed on the basis of the following components:
 A template for the session summaries can be found here.
 
 
-A reference document with the questions for the report assignment can be found [here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/Reference-final-assignment.docx).
+A reference document with the questions for the report assignment can be found [here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/Reference-final-assignment.pdf).
 
 
 The course instructor will upload a one-page summary of each session by the beginning of the following session. 
