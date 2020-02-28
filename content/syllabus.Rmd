@@ -31,13 +31,13 @@ I.III --- Computational psycholinguistics
 
 Part II --- Selected readings
 
-- Session 9: Production study ([Clarke, Elsner & Rohde, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S09-Clarke,Elsner&Rohde(2013).pdf))
+- Session 9: Production studies ([Clarke, Elsner & Rohde, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S09-Clarke,Elsner&Rohde(2013).pdf); [Domaneschi, Romero & Braun, 2017](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S09-Domaneschi,Romero&Braun(2017).pdf))
 
-- Session 10: Self-paced reading study ([Bergen & Grodner, 2012](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Bergen&Grodner(2012).pdf))
+- Session 10: Self-paced reading study ([Bergen & Grodner, 2012](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Bergen&Grodner(2012).pdf); [Rubio-Fernandez, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Rubio-Fernandez(2013).pdf))
 
-- Session 11: Visual world eye-tracking study ([van Bergen & Bosker, 2018](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-vanBergen&Bosker(2018).pdf))
+- Session 11: Visual world eye-tracking study ([Kurumada, Brown, Bibyk, Pontillo & Tanenhaus, 2014](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-S11-Kurumada,Brown,Bibyk,Pontillo&Tanenhaus(2014).pdf); [van Bergen & Bosker, 2018](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-vanBergen&Bosker(2018).pdf))
 
-- Session 12: Mouse-tracking study ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S12-Dale&Duran(2011).pdf))
+- Session 12: Mouse-tracking study ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S12-Dale&Duran(2011).pdf); [Tomlinson, Bailey & Bott, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S12-Tomlinson,Bailey&Bott(2013).pdf))
 
 - Session 13: Modeling production data ([Herbstritt & Franke, 2019](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S13-Herbstritt&Franke(2019).pdf))
 
