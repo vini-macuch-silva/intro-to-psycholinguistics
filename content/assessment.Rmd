@@ -25,6 +25,6 @@ Students will be assessed on the basis of the following components:
 - Questions for the report assignment ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/Reference-final-assignment.pdf)).
 
 
-<div class="alert alert-info">
+<div class="alert">
 The course instructor will upload a one-page summary of each session by the beginning of the following session.
 </div>

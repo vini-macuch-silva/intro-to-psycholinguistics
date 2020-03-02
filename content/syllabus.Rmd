@@ -11,21 +11,15 @@ Part I --- Foundations of psycholinguistics
 
 - Session 2: Why, and how to, investigate linguistic meaning using psycholinguistic tools?
 
-I.I --- Language production
+- Session 3: Processes and models of language production
 
-- Session 3: Processes and models
+- Session 4: Methods in language production research
 
-- Session 4: Methods
+- Session 5: Processes and models of language comprehension
 
-I.II --- Language comprehension
+- Session 6: Methods in language comprehension research pt. 1
 
-- Session 5: Processes and models
-
-- Session 6: Methods
-
-- Session 7: Methods
-
-I.III --- Computational psycholinguistics
+- Session 7: Methods in language comprehension research pt. 2
 
 - Session 8: Modeling psycholinguistic data
 
