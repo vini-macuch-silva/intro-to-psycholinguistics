@@ -7,7 +7,7 @@ type: "generic_page"
 
 Part I --- Foundations of psycholinguistics
 
-- Session 1: What is psycholinguistics? What do psycholinguists investigate? ([Cutler, Klein & Levinson, 2005](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01-Clarke,Klein&Levinson(2005).pdf))
+- Session 1: What is psycholinguistics? What do psycholinguists investigate? ([Cutler, Klein & Levinson, 2005](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01-Cutler,Klein&Levinson(2005).pdf))
 
 - Session 2: Why and how to investigate linguistic meaning using psycholinguistic tools? ([Noveck & Reboul, 2008](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S02-Noveck&Reboul(2008).pdf))
 
@@ -29,7 +29,7 @@ Part II --- Selected readings
 
 - Session 10: Mouse-tracking studies ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Dale&Duran(2011).pdf); [Tomlinson, Bailey & Bott, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Tomlinson,Bailey&Bott(2013).pdf))
 
-- Session 11: Timing in turn-taking as a window into the production-comprehension interface ([Levinson & Torreira, 2015, p.10-24](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-Levinson(2015).pdf))
+- Session 11: Timing in turn-taking as a window into the production-comprehension interface ([Levinson & Torreira, 2015, pp.10-24](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-Levinson&Torreira(2015).pdf))
 
 - Session 12: Modeling production data ([Herbstritt & Franke, 2019](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S12-Herbstritt&Franke(2019).pdf))
 
