@@ -7,7 +7,7 @@ type: "generic_page"
 
 Part I --- Foundations of psycholinguistics
 
-- Session 1: What is psycholinguistics? What do psycholinguists investigate? ([Cutler, Klein & Levinson, 2005](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01-Clarke,Elsner&Rohde(2005).pdf))
+- Session 1: What is psycholinguistics? What do psycholinguists investigate? ([Cutler, Klein & Levinson, 2005](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01-Clarke,Klein&Levinson(2005).pdf))
 
 - Session 2: Why and how to investigate linguistic meaning using psycholinguistic tools? ([Noveck & Reboul, 2008](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S02-Noveck&Reboul(2008).pdf))
 
