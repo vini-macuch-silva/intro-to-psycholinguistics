@@ -1,0 +1,18 @@
+---
+title: Materials
+type: "generic_page"
+---
+
+# Session materials for Part I
+
+- Session 1: What is psycholinguistics? What do psycholinguists investigate? ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01))
+
+- Session 2: Why and how to investigate linguistic meaning using psycholinguistic tools? ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S02))
+
+- Session 3: Investigating language production at the discourse level ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S03))
+
+- Session 4: Investigating language comprehension at the discourse level ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S04))
+
+- Session 5: Investigating the relation between production and comprehension ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S05))
+
+- Session 6: Modeling psycholinguistic data ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S06))

@@ -79,7 +79,10 @@ footnotereturnlinkcontents = "↩"
     name = "Assessment"
     url = "/assessment/"
     weight = 3
-
+[[menu.main]]
+    name = "Materials"
+    url = "/materials/"
+    weight = 4
 
 
 # Parameters used in various places throughout the site.
