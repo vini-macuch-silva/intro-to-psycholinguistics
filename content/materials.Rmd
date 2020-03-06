@@ -3,11 +3,15 @@ title: Materials
 type: "generic_page"
 ---
 
-# Session materials for Part I
+# Course materials
+
+The materials are organized in terms of the individual course sessions. For Part I, they consinst of slides, a paper to be read before each session, as well as the session summary, which will be uploaded by the instructor before the following session. For session 2, introductory papers on the invidual methods discussed in class are also available in the respective session folder.
+
+Part I --- Foundations of psycholinguistics
 
 - Session 1: What is psycholinguistics? What do psycholinguists investigate? ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01))
 
-- Session 2: Why and how to investigate linguistic meaning using psycholinguistic tools? ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S02))
+- Session 2: Investigating linguistic meaning using psycholinguistic tools ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S02))
 
 - Session 3: Investigating language production at the discourse level ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S03))
 
@@ -16,3 +20,21 @@ type: "generic_page"
 - Session 5: Investigating the relation between production and comprehension ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S05))
 
 - Session 6: Modeling psycholinguistic data ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S06))
+
+For Part II of the course, the materials consist of one or two papers for each session.
+
+Part II --- Selected readings
+
+- Session 7: Production studies ([Clarke, Elsner & Rohde, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S07-Clarke,Elsner&Rohde(2013).pdf); [Domaneschi, Romero & Braun, 2017](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S07-Domaneschi,Romero&Braun(2017).pdf))
+
+- Session 8: Self-paced reading studies ([Bergen & Grodner, 2012](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S08-Bergen&Grodner(2012).pdf); [Rubio-Fernandez, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S08-Rubio-Fernandez(2013).pdf))
+
+- Session 9: Visual world eye-tracking studies ([Kurumada, Brown, Bibyk, Pontillo & Tanenhaus, 2014](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S09-Kurumada,Brown,Bibyk,Pontillo&Tanenhaus(2014).pdf); [van Bergen & Bosker, 2018](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S09-vanBergen&Bosker(2018).pdf))
+
+- Session 10: Mouse-tracking studies ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Dale&Duran(2011).pdf); [Tomlinson, Bailey & Bott, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Tomlinson,Bailey&Bott(2013).pdf))
+
+- Session 11: Timing in turn-taking as a window into the production-comprehension interface ([Levinson & Torreira, 2015](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S11-Levinson&Torreira(2015).pdf))
+
+- Session 12: Modeling production data ([Herbstritt & Franke, 2019](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S12-Herbstritt&Franke(2019).pdf))
+
+- Session 13: Discourse, cognition and human interaction ([Levinson, 2006](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S13-Levinson(2006).pdf))
