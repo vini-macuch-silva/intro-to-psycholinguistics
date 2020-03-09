@@ -1,0 +1,63 @@
+---
+output: html_document
+---
+
+# Session 1 - What is psycholinguistics? What do psycholinguists investigate?
+
+***
+
+We began the session by situating psycholinguistics within the scope of the language sciences more generally. We entertained different definitions of what psycholinguistics is, establishing a working definition of our own:
+
+- **Psycholinguistics** is the study of how humans produce and understand language, as well as of how they acquire these skills as both first and second language learners
+
+We then moved on to discuss what psycholinguists investigate, focusing on how psycholinguists can have different reference points, usually anchored to either [experimental] psychology or [theoretical] linguistics. We argued that, ultimately, what defines the profile of a psycholinguist is an interest in the mechanisms underlying language use and representation in the human mind and/ or brain, possibly with a stronger focus on either usage or structure.
+
+## Four cornerstones of psycholinguistics
+
+***
+
+We noted that, according to Cutler, Klein & Levinson (2005), psycholinguistics as a field of research can be said to be structured around four crucial relationships, namely the relationships between:
+
+- **Psychology and linguistics**
+
+- **Biology and behavior**
+
+- **Comprehension and production**
+
+- **Model and experiment**
+
+We set out to explore psycholinguistics throughout the rest of the lecture as well as throughout the rest of the course in terms of those four themes.
+
+### Psychology and linguistics
+
+***
+
+[**Psychology, linguistics, and adult language processing**] We started our incursion into the relationship between psychology and linguistics by talking about how the study of adult language processing was key to the emergence of psycholinguistics in the mid twentieth-century. This research was initiated by experimental psychologists who, due to technological advances in psychology itself as well as in other fields, were able to start investigating linguistic behavior in controlled environments for the first time in the history of research on language. Initially, these psychologists were interested in testing psychological theories of language use. As linguistics became a prominent scientific discpline in the 1950s and 60s, psychologists started reaching out to the neighboring field to incorporate processing predictions from linguistic models. Truly psycholinguistic models only emerged, however, as late as the 1980s, nearly 30 years after the first forrays into psycholinguistic research and after a period of disconnect between linguistic theory and the psychology of language in the 1970s.
+
+[**Psychology, linguistics, and language acquisition**] We briefly tapped into the concept of language acquisition, which despite not being discussed in our course is a core area of psycholinguistic research. We differentiated between **first language acquisition**, which concerns how children learn their native language(s), and **second language acquisition**, which concerns how both children and adults learn any language(s) other than their native one(s).
+
+### Biology and behavior
+
+***
+
+We mentioned that psycholinguistics is part of cognitive science, and by extension also of cognitive neuroscience. The increase in psycholinguistic research into language processing in the brain has led to the establishment of an entirely new [sub]field of research called neurolinguistics. Neurolinguistic research aside, a fundamental topic of research for psycholinguists is how language processing is embedded within the larger functioning of the human organism. In other words, how does language interface with other cognitive domains such as vision or memory and attention? One of the most prolific research avenues in this regard has been the relationship between language and spatial cognition. Interestingly, there seems to be no direct one-to-one mapping between the spatial reference distinctions found, for example, in cognitive neuroscience and the spatial codings found in the languages of the world. This raises questions about the influence of language on cognition and vice versa.
+
+[**Language modalities and media**] Questions such as the one about the relationship between linguistic and non-linguistic cognition find an interesting avenue of exploration in research on different language modalities. We discussed how language can be realized in different sensorimotor modalities, namely the vocal-acoustic modality and the visuospatial one. We also touched upon the matter of how languages can be represented in writing by means of different writing systems. The key point of this discussion was that research on language should be informed by matters of linguistic diversity, especially given how skewed our knowledge of the languages of the world is. One important step towards more sustainable research practices is to simply state which language one is studying.
+
+[**Language and cognition**] One goal of cognitive scientific, and thus also psycholinguistic, research is to understand what effects linguistic representations have on cognitive processing. More than that, it's also important to understand how these effects might be mediated by language-specific linguistic structures. It seems that, much like in the case of spational reasoning, conceptual structure and language semantics do not directly map onto one another. In fact, different languages lexicalize different semantic categories, which is to say that there is variation in how concepts are encoded linguistically. Given that categories do not necessarily overlap cross-linguistically, one may ask to what extent different linguistic structures affect the way people think.
+
+[**Linguistic interaction**] Studies of linguistic interaction have also provided interesting insights about the relation between cognition and language. Psycholinguists have long been interested in studying how contextual information can be used to resolve reference and ambiguity, though only recently have linguistic pragmatic theories been put to the test using experiments. Recently, psycholinguists have also turned their attention to dialogue and conversation, as interactive language use has been identified as the locus where comprehension and production naturally meet.
+
+### Comprehension and production
+
+***
+
+One truism in psycholinguistics is that research on language comprehension is and has been since the onset of the field more predominant than research on language production. There are obvious methodological reasons for that, as it is much easier to have tight experimental control over comprehension than is it to have over production (think of trying to elicit spontaneous speech and how to constrain it in the laboratory without explicitly telling people what to say). One solution psycholinguists have found to investigate language production has been to look at the breakdown of production processes, for instance via slips of the tongue or language use in aphasics. Research on language comprehension, on the other hand, has flourished since psychologists started using experiments to study visual word recognition. Since then, new paradigms have allowed the study of sentence processing, spoken language comprehension as well as, more recently, spoken language production.
+
+[**Models of comprehension-production**] Recently, researchers have started to model language comprehension and language production as joint processes. However, there are, at least on the face of it, fundamental differences between the two. For one, the task of a speaker seems different than that of a listener, as the former involves converting the message to be conveyed into an appropriate surface form, while the latter involves parsing the linguistic signal while testing hypotheses about what the likely intended message might be. Moreover, the units of analysis are arguably different: while comprehension seems to involve a continuous, graded flow of information, production can be thought of converting an initial conceptual state into discrete units of enconding. All in all, it is not clear whether an integrated model of language use provides a more satisfactory account than separate models of the individual one-way processes.
+
+### Model and experiment
+
+***
+
+As with other experimental disciplines, in psycholinguistics it is important to understand the relation between theory and experiment. Models can help researchers understand that relation better. However, practical modeling, for example in the form of computational modeling, can often be ultra-pragmatic in the sense that modelers need to make sure their model implementations work, which does not necessarily mean the resulting models are in line with insights from human processing, as derived from experimental evidence. Computational modeling of language processing in psychology has to some extent suffered from this ultra-pragmatism. At the same time, modeling has contributed to a surge of new empirical research in psycholinguistics. Currently, some linguistic traditions are experiencing particularly progressive developments where empirical testing is seen as an essential component of theory building. We will look at pragmatics as an example of this new wave of integration between theory, experiment, and modeling.
