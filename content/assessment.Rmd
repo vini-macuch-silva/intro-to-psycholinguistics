@@ -16,7 +16,7 @@ Students will be assessed on the basis of the following components:
 
 # Assessment material
 
-- Template for the session summaries ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01/Summary-S01.html));
+- Template for the session summaries ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S01/Summary-S01.Rmd));
 
 - Assessment rubric for the written assignments ([here](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/Ass-rubric-summary.pdf));
 
