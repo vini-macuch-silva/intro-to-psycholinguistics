@@ -33,8 +33,6 @@ Part II --- Selected readings
 
 - Session 10: Visual world eye-tracking studies ([Kurumada, Brown, Bibyk, Pontillo & Tanenhaus, 2014](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Kurumada,Brown,Bibyk,Pontillo&Tanenhaus(2014).pdf); [van Bergen & Bosker, 2018](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/vanBergen&Bosker(2018).pdf))
 
-- Session 11: Mouse-tracking studies ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/S10-Dale&Duran(2011).pdf); [Tomlinson, Bailey & Bott, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Tomlinson,Bailey&Bott(2013).pdf))
+- Session 11: Mouse-tracking studies ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Dale&Duran(2011).pdf); [Tomlinson, Bailey & Bott, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Tomlinson,Bailey&Bott(2013).pdf))
 
 - Session 12: Timing in turn-taking as a window into the production-comprehension interface ([Levinson & Torreira, 2015](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Levinson&Torreira(2015).pdf))
-
-- Session 13: Discourse, cognition and human interaction ([Levinson, 2006](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Levinson(2006).pdf))
