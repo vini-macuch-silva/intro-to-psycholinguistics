@@ -26,5 +26,5 @@ Students will be assessed on the basis of the following components:
 
 
 <div class="alert">
-The course instructor will upload a one-page summary of each session by the beginning of the following session.
+The course instructor will upload a summary of each session by the beginning of the following session.
 </div>
