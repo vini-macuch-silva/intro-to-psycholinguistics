@@ -26,7 +26,7 @@ We noted that, according to Cutler, Klein & Levinson (2005), psycholinguistics a
 
 - **Model and experiment**
 
-We set out to explore psycholinguistics throughout the rest of the lecture as well as throughout the rest of the course in terms of those four themes.
+We set out to explore psycholinguistics throughout the rest of the lecture as well as throughout the rest of the course in terms of the first three of those four themes.
 
 ### Psychology and linguistics
 
@@ -55,9 +55,3 @@ We mentioned that psycholinguistics is part of cognitive science, and by extensi
 One truism in psycholinguistics is that research on language comprehension is and has been since the onset of the field more predominant than research on language production. There are obvious methodological reasons for that, as it is much easier to have tight experimental control over comprehension than is it to have over production (think of trying to elicit spontaneous speech and how to constrain it in the laboratory without explicitly telling people what to say). One solution psycholinguists have found to investigate language production has been to look at the breakdown of production processes, for instance via slips of the tongue or language use in aphasics. Research on language comprehension, on the other hand, has flourished since psychologists started using experiments to study visual word recognition. Since then, new paradigms have allowed the study of sentence processing, spoken language comprehension as well as, more recently, spoken language production.
 
 [**Models of comprehension-production**] Recently, researchers have started to model language comprehension and language production as joint processes. However, there are, at least on the face of it, fundamental differences between the two. For one, the task of a speaker seems different than that of a listener, as the former involves converting the message to be conveyed into an appropriate surface form, while the latter involves parsing the linguistic signal while testing hypotheses about what the likely intended message might be. Moreover, the units of analysis are arguably different: while comprehension seems to involve a continuous, graded flow of information, production can be thought of converting an initial conceptual state into discrete units of enconding. All in all, it is not clear whether an integrated model of language use provides a more satisfactory account than separate models of the individual one-way processes.
-
-### Model and experiment
-
-***
-
-As with other experimental disciplines, in psycholinguistics it is important to understand the relation between theory and experiment. Models can help researchers understand that relation better. However, practical modeling, for example in the form of computational modeling, can often be ultra-pragmatic in the sense that modelers need to make sure their model implementations work, which does not necessarily mean the resulting models are in line with insights from human processing, as derived from experimental evidence. Computational modeling of language processing in psychology has to some extent suffered from this ultra-pragmatism. At the same time, modeling has contributed to a surge of new empirical research in psycholinguistics. Currently, some linguistic traditions are experiencing particularly progressive developments where empirical testing is seen as an essential component of theory building. We will look at pragmatics as an example of this new wave of integration between theory, experiment, and modeling.
