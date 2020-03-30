@@ -11,27 +11,27 @@ Part I --- Foundations of psycholinguistics
 
 - Session 2: Investigating linguistic meaning using psycholinguistic tools
 
-- Session 3: Investigating language production at the discourse level
+- Session 3: Psycholinguistic methods: An overview
 
-- Session 4: Investigating language comprehension at the discourse level
+- Session 4: Investigating language production at the discourse level
 
-- Session 5: Investigating the relation between production and comprehension
+- Session 5: Investigating language comprehension at the discourse level
 
-- Session 6: Modeling psycholinguistic data
+- Session 6: Investigating the relation between production and comprehension
+
+- Session 7: How to read and interpret a scientific paper
 
 Part II --- Selected readings
 
-- Session 7: Production studies
+- Session 8: Production studies
 
-- Session 8: Self-paced reading studies
+- Session 9: Self-paced reading studies
 
-- Session 9: Visual world eye-tracking studies
+- Session 10: Visual world eye-tracking studies
 
-- Session 10: Mouse-tracking studies
+- Session 11: Mouse-tracking studies
 
-- Session 11: Timing in turn-taking as a window into the production-comprehension interface
-
-- Session 12: Modeling production data
+- Session 12: Timing in turn-taking as a window into the production-comprehension interface
 
 - Session 13: Discourse, cognition and human interaction
 
