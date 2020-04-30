@@ -7,11 +7,11 @@ type: "generic_page"
 
 Students will be assessed on the basis of the following components:
 
-- [**30%**] One-page summaries of three sessions from the first part of the course. Summaries are to be handed in electronically by the day before the following session at the latest. Summaries will be assessed by the course instructor;
+- One-page summaries of three sessions from the first part of the course. Summaries are to be handed in electronically by the day before the following session at the latest. Summaries will not be graded, however, students must hand them in in order to qualify for the other assignments;
 
-- [**30%**] The presentation of a research paper from the second part of the course. Papers will be presented in small groups (2-4 people, depending on the number of attendants). The presentation will be assessed by the course instructor as well as by the students themselves;
+- [**40%**] The presentation of a research paper from the second part of the course. Papers will be presented in small groups (2-4 people, depending on the number of attendants). The presentation will be assessed by the course instructor as well as by the students themselves;
 
-- [**40%**] A short research report-like assignment focusing on one of the studies presented in class in the second part of the course. Students must report on a paper they have not presented themselves. Assignments will be assessed by the course instructor.
+- [**60%**] A short research report-like assignment focusing on one of the studies presented in class in the second part of the course. Students must report on a paper they have not presented themselves. Assignments will be assessed by the course instructor.
 
 
 # Assessment material
