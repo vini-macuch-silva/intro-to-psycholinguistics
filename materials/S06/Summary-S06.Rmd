@@ -1,0 +1,34 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+
+# Session 6 - Investigating the relation between production and comprehension
+
+***
+
+In this session, we set out to explore the ways in which language production and language comprehension might relate and feed into one another. We noted that in spontaneous language use production and comprehension form a continuous cycle, where what is said influences what is interpreted and vice-versa. We take the case of dialogue processing as a window into the organization and deployment of the mental lexicon. 
+
+The traditional view of the mental lexicon is that of a fixed repository of lexical items, which is learned during early ontogeny and remains mostly stable throughout adulthood. The main question in language processing research is then that of how language users put this fixed knowledge to use. In line with this view, processig and acquisition are distinct processes. The account presented in the class reading challenges that distinction, assuming that the lexicon is formed of both fixed and semi-fixed constructions and that meaning can be constructed in conversation. Indeed, according to Pickering and Garrod, via processes of routinization both complex expressions and traditional lexical units can come to populate the mental representations of language users. On this view, the lexicon can be understood as a set of units that are constantly and dynamically updated as people go about using language.
+
+# Dialogue as alignment
+
+***
+
+The theory proposed by Pickering and Garrod (2004) aims at arriving at a mechanistic understanding of dialogue, in line with the global aims of cognitive science. According to this interactive-alignment account of dialogue, success in conversation translates in the alignment of situation models between interlocutors. Situations models are taken to encapsulate the dimensions of space, time, causality, intentionality and the identity of the different characters involved. If interlocutors align on a situation model, it means they have the same representations of those key dimensions of a situation. The principal assumption behind this account is that alignment is largely an automatic process, given that the pressures operating on conversation leave very little space for modeling of other people's mental states.
+
+Another assumption of the interactive alignment account is that representations get aligned at every level of representation, and that alignment at one level is enhanced by alignment at another level. Ultimately, this leads to alignment of the situation model. Experimental data show that people are able to converge on the labels for referring expressions. Moreover, people are primed by each other to employ the same linguistic forms. When there is priming between comprehension and production, the two processes are said to be in parity. People have also been shown to align their syntactic representations, and such syntactic priming has been shown to be enhanced by the repetition of lexical items as well as by the semantic similarity between items.
+
+
+## Interactive alignment and routinization
+
+***
+
+According to Pickering and Garrod, expressions that are repeated become routines for the purposes of a dialogue. These expressions are fixed insofar as they have a fixed lexical meaning, though they may also contain elements that vary more or less systematically depending on the usage event (in this case, they are said to be semi-productive). Stock phrases, idioms, and cliches are all instances of routines. Routines can be established for the purposes and duration of a particular exchange. They can also be elicited experimentally. Interactive alignment is defined as the process by which representations of different levels and the links betweem them get primed in dialogue. Producing and comprehending utterances leads to the activation of different representations. When activation is sufficiently strong -- possibly due to repeated activation -- routinization itself occurs. Routinization can thus be classified as the establishment of new memory traces associated with an expression, to the point where the expression might become lexicalized, even if only for the purposes of an exchange.
+
+Representations in the interactive alignment account are conceptualized following the work by Jackendoff (2002). According to Jackendoff, linguistic representations are either stored and accessed online or constructed online. Those that are stored and accessed online are lexical items, which can range from morphemes to whole multi-phrase constructions. Importantly, while traditional lexical items consist of a mapping between a phonological representation and a syntactic representation, which ultimately gets mapped onto a semantic/ conceptual representation, complex lexical items, such as fixed or semi-productive idioms, only consist of partial mappings between those different linguistic levels. Three examples of routinized mappings were discussed on the basis of data from a collaborative communication task.
+
+The first example discussed was that of two regular lexical items which get routinized as a single complex lexical item. The syntactic representation eventually gets mapped onto a novel semantic representation. The link between the phonological representation and the syntactic one, however, remains the same. In the second example, a similar type of routinization happens, however, the resulting mapping between syntax and semantics is more complex given that it is compositional in nature, unlike in the first example. In the third and last example, the mapping between the phonological form and the semantics of the expression is mediated by a complex syntactic structure.
+
+All in all, these examples serve to show that routinization involves the positing of links between different levels of linguistic representation. The created routines consist of items that have partly or completely fixed interpretations at multiple levels of organization. A prediction that can be made on the basis of these observations is that the difficulty associated with deciding which expression to use in the presence of multiple alternatives is reduced when an expression has become routinized in the lexicon. More genereally, this theory has implications for representational accounts of language and for accounts of language acquisition. Pickering and Garrod suggest that word learning in infancy might resemble routinization in adult discourse processing.
