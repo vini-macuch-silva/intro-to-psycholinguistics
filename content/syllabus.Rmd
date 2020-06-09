@@ -31,5 +31,5 @@ Part II --- Selected readings
 
 - Session 11 [06/07]: Mouse-tracking studies
 
-- Session 12 [13/07]: Timing in turn-taking as a window into the production-comprehension interface
+- Session 12 [13/07]: The production-comprehension interface
 

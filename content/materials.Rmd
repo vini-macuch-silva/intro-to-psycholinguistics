@@ -35,4 +35,4 @@ Part II --- Selected readings
 
 - Session 11: Mouse-tracking studies ([Dale & Duran, 2011](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Dale&Duran(2011).pdf); [Tomlinson, Bailey, & Bott, 2013](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Tomlinson,Bailey,&Bott(2013).pdf))
 
-- Session 12: Timing in turn-taking as a window into the production-comprehension interface ([Levinson & Torreira, 2015](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Levinson&Torreira(2015).pdf))
+- Session 12: The production-comprehension interface ([Richardson & Dale, 2005](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Richardson&Dale(2005).pdf); [Levinson & Torreira, 2015](https://github.com/vini-macuch-silva/intro-to-psycholinguistics/tree/master/materials/class-presentations/Levinson&Torreira(2015).pdf))
